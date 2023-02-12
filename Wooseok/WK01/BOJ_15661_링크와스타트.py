@@ -23,4 +23,3 @@ for s in range(1,(1<<n) - 1): #최소 한명 이상이어야 하므로
 
 #최소값 출력
 print(min(res))
-
