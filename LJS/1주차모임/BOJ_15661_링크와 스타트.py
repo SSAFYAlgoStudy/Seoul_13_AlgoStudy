@@ -11,7 +11,7 @@ def dfs(v):
             
 
 N = int(input())
-graph = [ [] for _ in range( N+1 ) ]
+graph = [ [] for _ in range(N+1) ]
 
 for _ in range(N-1):
     a, b= map(int,input().split())
