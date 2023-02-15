@@ -13,7 +13,7 @@
 ## 이번 주 문제
 1. Bitmasking : https://www.acmicpc.net/problem/15661
 2. Graph Searching : https://www.acmicpc.net/problem/11725      
-3. 카카오 기출 : https://school.programmers.co.kr/learn/courses/30/lessons/92344
+3. 카카오 기출 : https://school.programmers.co.kr/learn/courses/30/lessons/92343
 
 
 ## 벌금 5000원 누적 내역
