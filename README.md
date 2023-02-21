@@ -11,10 +11,9 @@
 * 매주 목요일 6시 퇴실 이후
 
 ## 이번 주 문제
-1. Bitmasking : https://www.acmicpc.net/problem/15661
-2. Graph Searching : https://www.acmicpc.net/problem/11725      
-3. 카카오 기출 : https://school.programmers.co.kr/learn/courses/30/lessons/92343
-
+1. 벽 부수고 이동하기 : https://www.acmicpc.net/problem/2206
+2. 양과 늑대 비트마스킹 이용 : https://school.programmers.co.kr/learn/courses/30/lessons/92343
+3. 링크와 스타트 비트마스킹 이용 : https://www.acmicpc.net/problem/15661
 
 ## 벌금 5000원 누적 내역
 
