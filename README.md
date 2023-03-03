@@ -11,8 +11,8 @@
 * 매주 목요일 6시 퇴실 이후
 
 ## 이번 주 문제
-1. 벽 부수고 이동하기2 : https://www.acmicpc.net/problem/14442
-2. 양팔저울 : https://www.acmicpc.net/problem/2629
+1. 링크와 스타트 (비트마스킹) : https://www.acmicpc.net/problem/15661
+2. 게리맨더링 (비트마스킹) : https://www.acmicpc.net/problem/17471
 
 ## 벌금 5000원 누적 내역
 
