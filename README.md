@@ -11,8 +11,8 @@
 * 매주 목요일 6시 퇴실 이후
 
 ## 이번 주 문제
-1. 링크와 스타트 (비트마스킹) : https://www.acmicpc.net/problem/15661
-2. 게리맨더링 (비트마스킹) : https://www.acmicpc.net/problem/17471
+1. Gaaaaaaaaaarden : https://www.acmicpc.net/problem/18809
+2. 주사위 윷놀이 : https://www.acmicpc.net/problem/17825
 
 ## 벌금 5000원 누적 내역
 
