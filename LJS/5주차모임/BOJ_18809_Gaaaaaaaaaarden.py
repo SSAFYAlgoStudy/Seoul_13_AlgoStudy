@@ -11,7 +11,7 @@ def is_okay(x,y,map): # bfs가 실행 가능한지 여부
         return False
     if visited[x][y] == sys.maxsize: #꽃이면
         return False
-    if map[x][y] !=1 and map[x][y] !=2: # 갈수있는 땅이 아니면
+    if map[x][y] !=1 and map[x][y] !=2: # 갈수있는 땅이 아니면 false
         return False
     return True
 
