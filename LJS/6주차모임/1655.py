@@ -3,8 +3,8 @@ input= sys.stdin.readline
 import heapq
 
 N = int(input())
-left_heap = [] # 최대힙 왼쪽트리
-right_heap = [] # 최소힙 오른쪽트리
+left_heap = [] ## 최대힙 왼쪽트리
+right_heap = [] ## 최소힙 오른쪽트리
 
 for _ in range(N):
     num = int(input())
